@@ -1,0 +1,14 @@
+{
+  "name": "02-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "unluonur@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.2.0"
+  }
+}
